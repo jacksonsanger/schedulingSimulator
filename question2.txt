@@ -1,0 +1,4 @@
+#Question 2 from lab7 jobs list. All share same priority
+A 1 0 1000 1001
+B 1 0 100 10
+C 1 0 100 20
